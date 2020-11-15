@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="15dp"
+    tools:context=".StartActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Female Hostel"
+        android:id="@+id/female_activity_id"
+        android:layout_marginTop="15dp"
+        android:textColor="#F8F8F8"
+        android:background="@drawable/button_background"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Male Hostel"
+        android:id="@+id/male_activity_id"
+        android:layout_marginTop="15dp"
+        android:textColor="#F8F8F8"
+        android:background="@drawable/button_background"/>
+
+</LinearLayout>

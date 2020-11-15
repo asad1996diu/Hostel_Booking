@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Easy Find Hostel</string>
+
+    //FEMALE HOSTEL INFORMATION
+    <string-array name="female_hostel_name">
+        <item>Female Hostel - 1</item>
+        <item>Female Hostel - 2</item>
+        <item>Female Hostel - 3</item>
+        <item>Female Hostel - 4</item>
+        <item>Female Hostel - 5</item>
+        <item>Female Hostel - 6</item>
+    </string-array>
+
+    <string-array name="female_hostel_address">
+        <item>Female Hostel Address - 1</item>
+        <item>Female Hostel Address - 2</item>
+        <item>Female Hostel Address - 3</item>
+        <item>Female Hostel Address - 4</item>
+        <item>Female Hostel Address - 5</item>
+        <item>Female Hostel Address - 6</item>
+    </string-array>
+    <string-array name="female_farmgate_name">
+        <item>Female Hostel farmgate - 1</item>
+        <item>Female Hostel farmgate - 2</item>
+    </string-array>
+    <string-array name="female_uttara_name">
+
+        <item>Female Hostel uttara - 3</item>
+        <item>Female Hostel uttara - 4</item>
+    </string-array>
+    <string-array name="female_mirpur_name">
+
+        <item>Female Hostel mirpur - 3</item>
+        <item>Female Hostel mirpur - 4</item>
+    </string-array>
+
+    <string-array name="female_farmgate_address">
+        <item>Female Farmgate Address - 1</item>
+        <item>Female Farmgate Address - 2</item>
+
+    </string-array>
+    <string-array name="female_mirpur_address">
+        <item>Female Mirpur Address - 1</item>
+        <item>Female Mirpur Address - 2</item>
+
+    </string-array>
+    <string-array name="female_uttara_address">
+        <item>Female Uttara Address - 1</item>
+        <item>Female Uttara Address - 2</item>
+
+    </string-array>
+
+
+    //MALE HOSTEL INFORMATION
+    <string-array name="male_hostel_name">
+        <item>Male Hostel - 1</item>
+        <item>Male Hostel - 2</item>
+        <item>Male Hostel - 3</item>
+        <item>Male Hostel - 4</item>
+        <item>Male Hostel - 5</item>
+        <item>Male Hostel - 6</item>
+    </string-array>
+
+    <string-array name="male_hostel_address">
+        <item>male Hostel Address - 1</item>
+        <item>male Hostel Address - 2</item>
+        <item>male Hostel Address - 3</item>
+        <item>male Hostel Address - 4</item>
+        <item>male Hostel Address - 5</item>
+        <item>male Hostel Address - 6</item>
+    </string-array>
+    <string-array name="male_farmgate_name">
+        <item>Male Hostel farmgate - 1</item>
+        <item>Male Hostel farmgate - 2</item>
+    </string-array>
+    <string-array name="male_uttara_name">
+
+        <item>Male Hostel uttara - 3</item>
+        <item>Male Hostel uttara - 4</item>
+    </string-array>
+    <string-array name="male_mirpur_name">
+
+        <item>Male Hostel mirpur - 3</item>
+        <item>Male Hostel mirpur - 4</item>
+    </string-array>
+
+    <string-array name="male_farmgate_address">
+        <item>Male Farmgate Address - 1</item>
+        <item>Male Farmgate Address - 2</item>
+
+    </string-array>
+    <string-array name="male_mirpur_address">
+        <item>Male Mirpur Address - 1</item>
+        <item>Male Mirpur Address - 2</item>
+
+    </string-array>
+    <string-array name="male_uttara_address">
+        <item>Male Uttara Address - 1</item>
+        <item>Male Uttara Address - 2</item>
+
+    </string-array>
+
+</resources>
